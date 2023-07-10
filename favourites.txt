@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Favourite food 1
 Favourite food 2
 Favourite food 3
+Favourite movie 1
+Favourite movie 2
+Favourite movie 3
